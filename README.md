@@ -1,0 +1,1 @@
+**Habidachi** is an open-source, multi-player task and habit tracking system. It's built for visual and sound cosmetics, collaborative virtual pets, accountability and body doubling. It is at its core a social system meant to empower each user.
